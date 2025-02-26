@@ -43,7 +43,6 @@
         "drupal/ctools": "4.1.0",
         "drupal/devel": "5.3.1",
         "drupal/diff": "1.8.0",
-        "drupal/govcms_dlm": "3.0.0",
         "drupal/dropzonejs": "2.11.0",
         "drupal/ds": "3.27.0",
         "drupal/dynamic_entity_reference": "3.2.0",
@@ -63,7 +62,7 @@
         "drupal/file_to_media": "1.0.3",
         "drupal/focal_point": "2.1.2",
         "drupal/google_analytics": "4.0.3",
-        "drupal/govcms_dlm": "2.0.0",
+        "drupal/govcms_dlm": "3.0.0",
         "drupal/inline_entity_form": "3.0.0-rc20",
         "drupal/honeypot": "2.2.1",
         "drupal/key": "1.19.0",
@@ -196,5 +195,4 @@
         "nuke": "rm -r -f composer.lock bin app web vendor"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
-}
+    "prefer-stable": true}
